@@ -2,6 +2,6 @@
 
 [**Check it out →**](https://ikundanmehta.github.io/omnifood/)
 
-Rails (Ruby on Rails) is a full-stack framework of Ruby. It ships with all the tools needed to build amazing web apps on both the front and back end.
+Omnifood is a **imaginary** subscription based startup in food delivery. The website is build as portfolio project focusing on learning how websites/web apps are built from scratch [from idea to live]. How to take effective design decisions, follow a color scheme and consistance layout.
 
-![Ruby on Rails homepage](https://ikundanmehta.github.io/omnifood/img/Omnifood.png)
+![Omnifood homepage](https://ikundanmehta.github.io/omnifood/img/Omnifood.png)
