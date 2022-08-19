@@ -6,6 +6,7 @@
 
 html {
   font-size: 62.5%;
+  overflow-x: hidden;
 }
 
 body {
@@ -14,6 +15,9 @@ body {
   font-weight: 400;
   line-height: 1;
   color: #444;
+
+  /* Only works if there is nothing positioned relative to body. And you also need to add inside HTML */
+  overflow-x: hidden;
 }
 
 /*********************************/
@@ -45,10 +49,6 @@ body {
 
 .grid--4-cols {
   grid-template-columns: repeat(4, 1fr);
-}
-
-.grid--5-cols {
-  grid-template-columns: repeat(5, 1fr);
 }
 
 .grid--center-v {
@@ -170,6 +170,7 @@ body {
 
 .list-item {
   font-size: 1.8rem;
+  line-height: 1.2;
 
   display: flex;
   align-items: center;
